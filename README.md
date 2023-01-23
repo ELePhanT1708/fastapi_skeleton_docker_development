@@ -16,4 +16,6 @@ And for using it productively you need to:
 - And 'docker-compose up' 
 
 ... That's it, you are welcome))
+---
 
+.P.S. You'll have to remember about naming of folders and change path in dockerfile to work properly)
